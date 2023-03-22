@@ -10,3 +10,4 @@ POC and testing templates :
 1. Boilerplate test creation - https://github.com/HardlyCodeMan/audit_helper
 2. Foundry template - https://github.com/foundry-rs/hardhat-foundry-template
 3. Quick POC by obront - https://github.com/zobront/quickpoc
+4. delisiurz (twitter) + immunefi POCs
