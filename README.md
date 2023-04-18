@@ -17,3 +17,4 @@ POC and testing templates :
 4. Foundry template by PaulRBerg - https://github.com/paulrberg/foundry-template
 5. delisiurz - https://github.com/deliriusz/turbopoc
 6. POC templates by immunefi - https://medium.com/immunefi/immunefi-poc-templates-4345f098ac69
+7. Martinez - https://github.com/Elpacos/quickfork
